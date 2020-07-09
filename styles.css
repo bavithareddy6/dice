@@ -41,6 +41,7 @@ footer {
 }
 button{
   display: block;
+  width:max-content;
   height: 60px;
   margin: 20px 380px 40px;
   border-radius: 5px;
