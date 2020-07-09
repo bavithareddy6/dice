@@ -55,7 +55,7 @@ if(dice1No > dice2No){
     h1Text.innerText = " 🚩Player 1 Win";
 }
 else if(dice1No < dice2No){
-    h1Text.innerText = "🚩 Player 2 Win ";
+    h1Text.innerText = "🚩Player 2 Win ";
 }
 else if(dice1No == dice2No){
     h1Text.innerText = "Draw! Try Again"
